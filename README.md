@@ -1,2 +1,2 @@
 # Walmart_sales_Report
-SQL Query |Power BI End to End Projects | Dashboards 
+SSMS|SQL Query|Power BI|Dashboards 
